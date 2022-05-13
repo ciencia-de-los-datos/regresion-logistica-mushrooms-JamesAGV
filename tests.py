@@ -8,8 +8,6 @@ import sys
 #import soluciones
 import preguntas
 
-preguntas = soluciones
-
 
 def test_01():
     # ---< Input/Output test case >----------------------------------------------------
